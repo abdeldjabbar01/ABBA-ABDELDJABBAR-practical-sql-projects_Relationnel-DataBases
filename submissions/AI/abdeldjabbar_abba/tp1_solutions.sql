@@ -1,7 +1,5 @@
 
 -- TP1: University Management System
--- Author: ABDELDJABBAR Abba
-
 
 -- 1 Create and use the database
 CREATE DATABASE IF NOT EXISTS university_db;
